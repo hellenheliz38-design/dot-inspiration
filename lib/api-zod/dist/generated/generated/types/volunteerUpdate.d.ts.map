@@ -1,0 +1,1 @@
+{"version":3,"file":"volunteerUpdate.d.ts","sourceRoot":"","sources":["../../../../src/generated/generated/types/volunteerUpdate.ts"],"names":[],"mappings":"AAAA;;;;;;GAMG;AACH,OAAO,KAAK,EAAE,qBAAqB,EAAE,MAAM,yBAAyB,CAAC;AAErE,MAAM,WAAW,eAAe;IAC9B,MAAM,CAAC,EAAE,qBAAqB,CAAC;IAC/B,MAAM,CAAC,EAAE,MAAM,CAAC;IAChB,YAAY,CAAC,EAAE,MAAM,CAAC;IACtB,UAAU,CAAC,EAAE,MAAM,CAAC;CACrB"}
